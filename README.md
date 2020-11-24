@@ -56,3 +56,19 @@
   
 
 <a name="videopro"></a>
+## Video Processing
+  ### Problem Description
+    Remember that all file and folder paths in your program should be relative. A video named
+    “RoseBloom.mp4” is provided in the “Videos” folder. The video is a colour video of the
+    blooming of a red rose. As the video progresses the rose flower blooms into a fully bloomed
+    rose. The Video is a 13 second playout .mp4 format video of resolution 640 × 360 at a
+    25𝑓𝑝𝑠 frame rate. All your files must be generated in “Generated” folder. Write your code
+    in the placeholder file, “main.py” provided in the “Codes” folder. Your “main.py” file must
+    solve all the parts at once.
+  ### Part A:
+    Read the video and save the frame at the start of 6th second. Save the image as
+    “frame_as_6.jpg” in the “Generated” folder.
+  ### Part B:
+    We want to visualize the red component of the frame_at_6.jpg image. Read the video or the
+    file (which ever convenient) and set the Green and Blue components to 0. Save the image as
+    “frame_as_6_red.jpg” in the “Generated” folder.
