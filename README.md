@@ -20,16 +20,6 @@
     Note: Indexing in Python starts from 0, so though M is an integer, Python row count goes
     from 0 to M-1
 
-  ### Output
-    You should generate a “stats.csv” file, comma separated, in the “Generated” folder with the
-    following format. Every row in the “stats.csv” file will represent a record having the above
-    information and in the described order:
-    1. filename
-    2. height of the image
-    3. width of the image
-    4. number of channels in the image
-    5. intensity value at pixel location (𝑀/2,𝑁/2) for each channel
-
   ### Part B:
     Read the image “cat.jpg”. Set channels Blue and Green to 0. Save the image as
     “cat_red.jpg” in the “Generated” folder. This helps us visualize the red component of the
@@ -53,7 +43,16 @@
     + (0.11 × 𝐵𝑙𝑢𝑒 𝐶𝑜𝑚𝑝𝑜𝑛𝑒𝑛𝑡))
     Thus, compute intensity value for every pixel and save the image (1-channeled) as
     “horse_gray.jpg”.
-  
+    
+  ### Output
+    You should generate a “stats.csv” file, comma separated, in the “Generated” folder with the
+    following format. Every row in the “stats.csv” file will represent a record having the above
+    information and in the described order:
+    1. filename
+    2. height of the image
+    3. width of the image
+    4. number of channels in the image
+    5. intensity value at pixel location (𝑀/2,𝑁/2) for each channel
 
 <a name="videopro"></a>
 ## Video Processing
@@ -65,9 +64,11 @@
     25𝑓𝑝𝑠 frame rate. All your files must be generated in “Generated” folder. Write your code
     in the placeholder file, “main.py” provided in the “Codes” folder. Your “main.py” file must
     solve all the parts at once.
+    
   ### Part A:
     Read the video and save the frame at the start of 6th second. Save the image as
     “frame_as_6.jpg” in the “Generated” folder.
+    
   ### Part B:
     We want to visualize the red component of the frame_at_6.jpg image. Read the video or the
     file (which ever convenient) and set the Green and Blue components to 0. Save the image as
