@@ -1,6 +1,7 @@
 ## Table of Contents
 1. [Image Processing](#imagepro)
 2. [Video Processing](#videopro)
+2. [Video Deblurring Using Python](#videode)
 
 
 
@@ -73,3 +74,19 @@
     We want to visualize the red component of the frame_at_6.jpg image. Read the video or the
     file (which ever convenient) and set the Green and Blue components to 0. Save the image as
     “frame_as_6_red.jpg” in the “Generated” folder.
+    
+ <a name="videode"></a>
+## Video Deblurring Using Python
+  ### Folder Structure
+    This folder contains 4 sub-folders. 
+    1. Codes
+    Contains the program files(s). main.py
+    2. Generated
+    This folder is where you’ll save the images/results from your task.
+    3. Videos
+    This folder will be the input video folder.
+
+  ### Usage
+    1. Copy your blurred video inside videos folder.
+    2. Go to main.py inside the codes folder and change the name of the video you copied.
+    3. Run main.py
