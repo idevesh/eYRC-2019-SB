@@ -1,4 +1,4 @@
-## Table of Contents
+## Table of Contents 
 1. [Image Processing](#imagepro)
 2. [Video Processing](#videopro)
 2. [Video Deblurring Using Python](#videode)
@@ -91,3 +91,5 @@
     1. Copy your blurred video inside videos folder.
     2. Go to main.py inside the codes folder and change the name of the video you copied.
     3. Run main.py
+
+### Show some ❤️ by starring my repository! ![](https://visitor-badge.glitch.me/badge?page_id=idevesh.bulk-image-color-finding&style=flat-square&color=0088cc)
