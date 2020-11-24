@@ -92,4 +92,4 @@
     2. Go to main.py inside the codes folder and change the name of the video you copied.
     3. Run main.py
 
-### Show some ❤️ by starring my repository! ![](https://visitor-badge.glitch.me/badge?page_id=idevesh.bulk-image-color-finding&style=flat-square&color=0088cc)
+### Show some ❤️ by starring my repository! ![](https://visitor-badge.glitch.me/badge?page_id=idevesh.eYRC-2019-SB&style=flat-square&color=0088cc)
