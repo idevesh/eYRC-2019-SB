@@ -91,5 +91,6 @@
     1. Copy your blurred video inside videos folder.
     2. Go to main.py inside the codes folder and change the name of the video you copied.
     3. Run main.py
+    4. Generated folder will be having deblurred photos.
 
 ### Show some ❤️ by starring my repository! ![](https://visitor-badge.glitch.me/badge?page_id=idevesh.eYRC-2019-SB&style=flat-square&color=0088cc)
